@@ -1,0 +1,396 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"name",
+				"namePrice"
+			],
+			[
+				"produ",
+				"product1"
+			],
+			[
+				"nam",
+				"namePrice"
+			],
+			[
+				"expp",
+				"expphone"
+			],
+			[
+				"val",
+				"validate"
+			],
+			[
+				"res",
+				"result3"
+			],
+			[
+				"rem",
+				"removeChild"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"wai",
+				"waitForFiveSeconds"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"hand",
+				"handleMouseOutEvent"
+			],
+			[
+				"handl",
+				"handleMouseOverEvent"
+			],
+			[
+				"P",
+				"Physics"
+			],
+			[
+				"jav",
+				"javamarks"
+			],
+			[
+				"ja",
+				"javascriptmarks"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"X",
+				"X"
+			],
+			[
+				"Anket",
+				"Anket_alani"
+			],
+			[
+				"Anke",
+				"Anket_alani"
+			],
+			[
+				"Ank",
+				"Anket_alani"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"san",
+				"saniye"
+			],
+			[
+				"yas",
+				"yasKontrol"
+			],
+			[
+				"dogum",
+				"dogumYili"
+			],
+			[
+				"zaman",
+				"zamanDegistirilmis"
+			],
+			[
+				"ders",
+				"derslersirali"
+			],
+			[
+				"j",
+				"join"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/charizard17/Desktop/complete_front_end/javascript/javascript30/JavaScript30-master/01 - JavaScript Drum Kit/style.css",
+		"/home/charizard17/Desktop/complete_front_end/css3/css-grid-layout/index.html",
+		"/home/charizard17/Desktop/complete_front_end/css3/css-grid-layout/index2.html",
+		"/home/charizard17/Desktop/complete_front_end/css3/css-grid-layout/index3.html",
+		"/home/charizard17/Desktop/complete_front_end/css3/asda/index.html",
+		"/home/charizard17/Desktop/complete_front_end/react/redux-intro/src/App.css",
+		"/home/charizard17/Desktop/complete_front_end/react/react-7-projects/basic_contact_list_app/src/App.js",
+		"/home/charizard17/Desktop/complete_front_end/react/react-7-projects/basic_contact_list_app/src/Contacts.jsx",
+		"/home/charizard17/Desktop/complete_front_end/react/react-7-projects/basic_contact_list_app/src/Form/Form.jsx",
+		"/home/charizard17/Desktop/complete_front_end/react/react-7-projects/basic_contact_list_app/src/List/List.jsx",
+		"/home/charizard17/Desktop/complete_front_end/javascript/quiz_app/index.html",
+		"/home/charizard17/Desktop/complete_front_end/javascript/quiz_app/end.js",
+		"/home/charizard17/Desktop/complete_front_end/javascript/quiz_app/end.html",
+		"/home/charizard17/Desktop/complete_front_end/javascript/tetris/singleplayer/main.js",
+		"/home/charizard17/Desktop/complete_front_end/javascript/tetris/index.html",
+		"/home/charizard17/Desktop/complete_front_end/javascript/typing_speed/style.css",
+		"/home/charizard17/Desktop/complete_front_end/css3/asda/styles.css",
+		"/home/charizard17/Desktop/complete_front_end/react/react-7-projects/basic_contact_list_app/src/Card.jsx",
+		"/home/charizard17/Desktop/complete_front_end/react/covid19_tracker/src/index.js",
+		"/home/charizard17/Desktop/complete_front_end/other_commands.txt",
+		"/home/charizard17/Desktop/complete_front_end/examples/quiz_app/index.html",
+		"/home/charizard17/Desktop/complete_front_end/examples/quiz_app/app.css",
+		"/home/charizard17/Desktop/complete_front_end/react/shopping_app/public/index.html",
+		"/home/charizard17/Desktop/complete_front_end/javascript/pong/index.html",
+		"/home/charizard17/Desktop/complete_front_end/html5/canvas/canvas_resize/canvas.js",
+		"/home/charizard17/Desktop/complete_front_end/javascript/pong/pong.js",
+		"/home/charizard17/Desktop/complete_front_end/html5/canvas/canvas_initial_setup.js",
+		"/home/charizard17/Desktop/complete_front_end/html5/canvas/canvas_resize/index.html",
+		"/home/charizard17/Desktop/complete_front_end/javascript/breakout_game/breakOutGame.js",
+		"/home/charizard17/Desktop/complete_front_end/javascript/breakout_game/index.html",
+		"/home/charizard17/Desktop/complete_front_end/params.txt",
+		"/home/charizard17/Desktop/complete_front_end/html5/canvas2/canvas-resize/index.html",
+		"/home/charizard17/Desktop/complete_front_end/react/chatbox/client/public/index.html",
+		"/home/charizard17/Desktop/complete_front_end/examples/basic_calculator/calculator.html",
+		"/home/charizard17/Desktop/complete_front_end/github_commands.txt",
+		"/home/charizard17/Desktop/javascript/internalscript.html",
+		"/home/charizard17/Desktop/javascript/assignment_product.html",
+		"/home/charizard17/Desktop/javascript/1111priyanka.html",
+		"/home/charizard17/Desktop/javascript/OOPS_blogpost_display.html",
+		"/home/charizard17/Desktop/javascript/OOPS_blogpost_using_function.html",
+		"/home/charizard17/Desktop/javascript/OOPS_blogpost_using_function2.html",
+		"/home/charizard17/Desktop/javascript/OOPS_blogpost_singleton.html",
+		"/home/charizard17/Desktop/javascript/OOPS_singleton.html",
+		"/home/charizard17/Desktop/javascript/OOPS_blogpost_using_literal.html",
+		"/home/charizard17/Desktop/javascript/OOPS_blogpost_using_object.html",
+		"/home/charizard17/Desktop/javascript/form_validation_text_range.html",
+		"/home/charizard17/Desktop/javascript/form_validation_text_fields.html",
+		"/home/charizard17/Desktop/javascript/assignment_user_registration.html",
+		"/home/charizard17/Desktop/javascript/form_validation_drop_downs.html",
+		"/home/charizard17/Desktop/javascript/form_validation_regex_alpha_numeric.html",
+		"/home/charizard17/Desktop/javascript/events_onchange_images.html",
+		"/home/charizard17/Desktop/javascript/form_validation_text_regex.html",
+		"/home/charizard17/Desktop/javascript/form_validation_radio_button.html",
+		"/home/charizard17/Desktop/javascript/form_validation_checkboxes.html",
+		"/home/charizard17/Desktop/javascript/form_validation_numbers.html",
+		"/home/charizard17/Desktop/javascript/BOM_navigator.html",
+		"/home/charizard17/Desktop/javascript/BOM_home.html",
+		"/home/charizard17/Desktop/javascript/BOM_login.html",
+		"/home/charizard17/Desktop/javascript/BOM_screen.html",
+		"/home/charizard17/Desktop/javascript/assignment_dom.html",
+		"/home/charizard17/Desktop/javascript/DOM_create.html",
+		"/home/charizard17/Desktop/javascript/DOM_nodes.html",
+		"/home/charizard17/Desktop/javascript/DOM_events.html",
+		"/home/charizard17/Desktop/javascript/DOM_styles.html",
+		"/home/charizard17/Desktop/javascript/DOM_html_atribute_values.html",
+		"/home/charizard17/Desktop/javascript/error_debugging.html",
+		"/home/charizard17/Desktop/javascript/error_finally.html",
+		"/home/charizard17/Desktop/javascript/error_throw.html",
+		"/home/charizard17/Desktop/javascript/error_handling.html",
+		"/home/charizard17/Desktop/javascript/builtinobject_date2.html",
+		"/home/charizard17/Desktop/javascript/builtinobject_date.html",
+		"/home/charizard17/Desktop/javascript/builtinobject_array_delete_replace.html",
+		"/home/charizard17/Desktop/javascript/builtinobject_array_concat_reverse_join.html",
+		"/home/charizard17/Desktop/javascript/builtinobject_array_concat.html",
+		"/home/charizard17/Desktop/javascript/builtinobject_array.html",
+		"/home/charizard17/Desktop/javascript/builtinobject_Math.html",
+		"/home/charizard17/Desktop/javascript/builtinobject_boolean.html",
+		"/home/charizard17/Desktop/javascript/builtinobject_string.html",
+		"/home/charizard17/Desktop/javascript/events_onsubmit.html",
+		"/home/charizard17/Desktop/javascript/events_onload_redirect2.html",
+		"/home/charizard17/Desktop/javascript/events_onload_redirect.html",
+		"/home/charizard17/Desktop/javascript/events_onload.html",
+		"/home/charizard17/Desktop/javascript/assignment_onkeyup_onkeydown.html",
+		"/home/charizard17/Desktop/javascript/events_onfocus_onblur.html",
+		"/home/charizard17/Desktop/javascript/events_onchange_website.html",
+		"/home/charizard17/Desktop/javascript/events_onchange.html",
+		"/home/charizard17/Desktop/javascript/events_onclick.html",
+		"/home/charizard17/Desktop/javascript/events_custom_functions.html",
+		"/home/charizard17/Desktop/javascript/assignment_events_1.html",
+		"/home/charizard17/Desktop/javascript/1111.html",
+		"/home/charizard17/Desktop/javascript/events_onmouseover_onmouseout.html",
+		"/home/charizard17/Desktop/javascript/assignment_grade_calculator.html",
+		"/home/charizard17/Desktop/javascript/local_and_global_variables.html",
+		"/home/charizard17/Desktop/javascript/closures.html",
+		"/home/charizard17/Desktop/javascript/functions_return.html",
+		"/home/charizard17/Desktop/javascript/functions.html",
+		"/home/charizard17/Desktop/javascript/loops_assignment.html",
+		"/home/charizard17/Desktop/javascript/loops_for.html",
+		"/home/charizard17/Desktop/javascript/loops_break_and_continue.html",
+		"/home/charizard17/Desktop/javascript/loops_do_while.html",
+		"/home/charizard17/Desktop/javascript/loops_while.html",
+		"/home/charizard17/Desktop/javascript/even_or_odd.html",
+		"/home/charizard17/Desktop/javascript/switch_with_strings.html",
+		"/home/charizard17/Desktop/javascript/switch.html",
+		"/home/charizard17/Desktop/javascript/if_else_ladder.html",
+		"/home/charizard17/Desktop/javascript/if_else.html",
+		"/home/charizard17/Desktop/javascript/conditional_statements.html",
+		"/home/charizard17/Desktop/javascript/sumoftwonumbers.html",
+		"/home/charizard17/Desktop/javascript/prompt_popup.html",
+		"/home/charizard17/Desktop/javascript/alert_and_popups.html",
+		"/home/charizard17/Desktop/javascript/variables.html",
+		"/home/charizard17/Desktop/javascript/aritmetic.html",
+		"/home/charizard17/Desktop/javascript/external.js",
+		"/home/charizard17/Desktop/javascript/external.html",
+		"/home/charizard17/Desktop/javascript/comment.html",
+		"/home/charizard17/Desktop/js1"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "_menu.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
